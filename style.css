@@ -101,7 +101,7 @@ h1 {
 
 /* RESPONSIVE */
 
-@media  (max-width:700px) {
+@media (max-height:740px) or  (max-width:1080px) {
 
     .card {
         height: 30rem;
